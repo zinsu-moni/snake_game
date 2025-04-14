@@ -29,7 +29,7 @@ A classic Snake Game built using Python's `turtle` module. Control the snake, ea
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/snake_game.git
+   git clone https://github.com/zinsu-moni/snake_game.git
 
    
    cd snake_game
