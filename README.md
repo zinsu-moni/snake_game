@@ -32,6 +32,10 @@ A classic Snake Game built using Python's `turtle` module. Control the snake, ea
    git clone https://github.com/your-username/snake_game.git
 
    
+   cd snake_game
+
+   python main.py
+
 ### Instructions:
 1. Replace `your-username` with your GitHub username in the clone URL.
 2. Add your name in the "Author" section.
